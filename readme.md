@@ -18,10 +18,19 @@
 ## Libraries that use [go-zero](https://github.com/tal-tech/go-zero)
 
 - [cds](https://github.com/tal-tech/cds) - Data syncing in golang for ClickHouse.
+
 - [go-queue](https://github.com/tal-tech/go-queue) - Kafka, Beanstalkd Pub/Sub framework.
+
 - [go-stash](https://github.com/tal-tech/go-stash) - go-stash is a high performance, free and open source server-side data processing pipeline that ingests data from Kafka, processes it, and then sends it to ElasticSearch.
+
 - [datacenter](https://github.com/jackluo2012/datacenter) - 数据中台系统
+
 - [zero-vue-admin](https://github.com/feihua/zero-vue-admin) - 基于Go-Zero + vue-element-admin的前后端分离微服务管理系统的前端模块
+
 - [zero-admin-ui](https://github.com/feihua/zero-admin-ui) - 基于Go-Zero + Ant Design Pro的前后端分离微服务管理系统的前端模块
+
+  预览地址http://129.204.22.242/ 账号：admin 密码: 123456
+
 - [zero-admin](https://github.com/feihua/zero-admin) - 基于go-zero +Ant Design Pro的前后端分离微服务管理系统后端模块
+
 - [zeromall](https://github.com/zeromicro/zeromall) - The mall system based on go-zero.
