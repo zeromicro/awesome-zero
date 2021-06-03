@@ -26,3 +26,4 @@
 - [zero-admin](https://github.com/feihua/zero-admin) - 基于go-zero +Ant Design Pro的前后端分离微服务管理系统后端模块
 - [zeromall](https://github.com/zeromicro/zeromall) - The mall system based on go-zero.
 - [zindle](https://github.com/xiaopenggithub/zindle) - go-zero实战 bookstore 案例（uni-app开发+casbin权限控制）
+- [cookiecutter-go](https://github.com/better-go/cookiecutter-go) - go 项目初始化脚手架, 支持 go-zero 微服务项目初始化
