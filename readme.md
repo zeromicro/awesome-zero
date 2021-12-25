@@ -28,3 +28,5 @@
 - [zindle](https://github.com/xiaopenggithub/zindle) - go-zero实战 bookstore 案例（uni-app开发+casbin权限控制）
 - [cookiecutter-go](https://github.com/better-go/cookiecutter-go) - go 项目初始化脚手架, 支持 go-zero 微服务项目初始化
 - [go-things](https://gitee.com/go-things/things) - 依照腾讯云物联网平台打造的物联网云平台，无缝迁移，目前支持 mqtt 协议，支持数据模板检验，日志记录，数据流转，实时数据反馈，低代码数据流转，用户及设备互联互通
+- [library-system-admin](https://gitee.com/wu_wen_yi/library-system-admin) - library admin
+- [go-zero-looklook](https://github.com/Mikaelemmmm/go-zero-looklook) - a go-zero full stack example
