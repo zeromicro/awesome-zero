@@ -30,3 +30,9 @@
 - [go-things](https://gitee.com/go-things/things) - 依照腾讯云物联网平台打造的物联网云平台，无缝迁移，目前支持 mqtt 协议，支持数据模板检验，日志记录，数据流转，实时数据反馈，低代码数据流转，用户及设备互联互通
 - [library-system-admin](https://gitee.com/wu_wen_yi/library-system-admin) - library admin
 - [go-zero-looklook](https://github.com/Mikaelemmmm/go-zero-looklook) - a go-zero full stack example
+
+## videos
+
+- [bilibili.com/video/BV1rD4y127PD](bilibili.com/video/BV1rD4y127PD)
+- [bilibili.com/video/BV1LS4y1U72n](bilibili.com/video/BV1LS4y1U72n)
+- [bilibili.com/video/BV1gu411q7S7](bilibili.com/video/BV1gu411q7S7)
