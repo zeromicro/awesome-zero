@@ -33,6 +33,6 @@
 
 ## videos
 
-- [bilibili.com/video/BV1rD4y127PD](bilibili.com/video/BV1rD4y127PD)
-- [bilibili.com/video/BV1LS4y1U72n](bilibili.com/video/BV1LS4y1U72n)
-- [bilibili.com/video/BV1gu411q7S7](bilibili.com/video/BV1gu411q7S7)
+- [bilibili.com/video/BV1rD4y127PD](https://www.bilibili.com/video/BV1rD4y127PD)
+- [bilibili.com/video/BV1LS4y1U72n](https://www.bilibili.com/video/BV1LS4y1U72n)
+- [bilibili.com/video/BV1gu411q7S7](https://www.bilibili.com/video/BV1gu411q7S7)
