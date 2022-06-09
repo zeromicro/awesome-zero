@@ -14,6 +14,7 @@
 - [goctl-php](https://github.com/zeromicro/goctl-php) - goctl php plugin
 - [goctl-go-compact](https://github.com/zeromicro/goctl-go-compact) - goctl plugin that merges handler files
 - [goctl-android](https://github.com/zeromicro/goctl-android) - goctl android plugin demo
+- [gengin](https://github.com/MasterJoyHunan/gengin) - goctl gin plugin
 
 ## Libraries that use [go-zero](https://github.com/tal-tech/go-zero)
 
