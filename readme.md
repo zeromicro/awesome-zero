@@ -32,6 +32,8 @@
 - [library-system-admin](https://gitee.com/wu_wen_yi/library-system-admin) - library admin
 - [go-zero-looklook](https://github.com/Mikaelemmmm/go-zero-looklook) - a go-zero full stack example
 - [austin-go](https://github.com/rxrddd/austin-go) - 一个聚合消息推送平台,支持微信,邮件,短信,微信公众号,钉钉等多种渠道
+- [ark-admin-vuenext](https://github.com/arklnk/ark-admin-vuenext) - 基于go-zero + Vue3 + TypeScript + Element-Plus编写的一款简单高效的前后端分离的权限管理系统前端模块
+- [ark-admin-zero](https://github.com/arklnk/ark-admin-zero) - 基于go-zero + Vue3 + TypeScript + Element-Plus编写的一款简单高效的前后端分离的权限管理系统后端模块
 
 ## videos
 
