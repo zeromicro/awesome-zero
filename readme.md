@@ -36,6 +36,7 @@
 - [ark-admin-vuenext](https://github.com/arklnk/ark-admin-vuenext) - 基于go-zero + Vue3 + TypeScript + Element-Plus编写的一款简单高效的前后端分离的权限管理系统前端模块
 - [ark-admin-zero](https://github.com/arklnk/ark-admin-zero) - 基于go-zero + Vue3 + TypeScript + Element-Plus编写的一款简单高效的前后端分离的权限管理系统后端模块
 - [teamgram](https://github.com/teamgram/teamgram-server) - Unofficial open source mtproto server written in golang with compatible telegram client
+- [Simple Admin](https://github.com/suyuan32/simple-admin-core) - Simple Admin是一个基于go zero开发的的分布式微服务后端管理系统脚手架，提供后台管理系统的所有基本功能，支持k8s快速部署，助力快速开发高并发微服务集群，适合学习和商用。Simple Admin is a powerful microservice framework for basic management. It is based on go-zero and supports several advanced features. It can help you to develop a microservice back-end management system in a short time.
 
 ## videos
 
