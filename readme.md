@@ -15,7 +15,7 @@
 - [goctl-go-compact](https://github.com/zeromicro/goctl-go-compact) - goctl plugin that merges handler files
 - [goctl-android](https://github.com/zeromicro/goctl-android) - goctl android plugin demo
 - [gengin](https://github.com/MasterJoyHunan/gengin) - goctl gin plugin
-- [grom-zero](https://github.com/SpectatorNan/gorm-zero) - go-zero gorm extension
+- [gorm-zero](https://github.com/SpectatorNan/gorm-zero) - go-zero gorm extension
 
 ## Libraries that use [go-zero](https://github.com/tal-tech/go-zero)
 
