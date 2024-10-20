@@ -29,7 +29,7 @@
 - [zeromall](https://github.com/zeromicro/zeromall) - The mall system based on go-zero.
 - [zindle](https://github.com/xiaopenggithub/zindle) - go-zero实战 bookstore 案例（uni-app开发+casbin权限控制）
 - [cookiecutter-go](https://github.com/better-go/cookiecutter-go) - go 项目初始化脚手架, 支持 go-zero 微服务项目初始化
-- [iThings](https://github.com/i-Things/iThings) - iThings是一个基于golang开发的轻量级云原生微服务物联网平台.目前支持 mqtt 协议，支持数据模板检验，日志记录，数据流转，实时数据反馈，低代码数据流转，用户及设备互联互通
+- [联犀](https://gitee.com/unitedrhino/things) - 联犀(原iThings)是一款基于 Go 语言开发的商业级 SaaS 云原生微服务物联网平台，致力于帮助企业快速构建自己的物联网应用，实现数字化转型。
 - [library-system-admin](https://gitee.com/wu_wen_yi/library-system-admin) - library admin
 - [go-zero-looklook](https://github.com/Mikaelemmmm/go-zero-looklook) - a go-zero full stack example
 - [austin-go](https://github.com/rxrddd/austin-go) - 一个聚合消息推送平台,支持微信,邮件,短信,微信公众号,钉钉等多种渠道
