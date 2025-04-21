@@ -39,7 +39,7 @@
 - [Simple Admin](https://github.com/suyuan32/simple-admin-core) - Simple Admin是一个基于go zero开发的的分布式微服务后端管理系统脚手架，提供后台管理系统的所有基本功能，支持k8s快速部署，助力快速开发高并发微服务集群，适合学习和商用。Simple Admin is a powerful microservice framework for basic management. It is based on go-zero and supports several advanced features. It can help you to develop a microservice back-end management system in a short time.
 - [go-microservices-blogger](https://github.com/linehk/go-microservices-blogger) - go-microservices-blogger is a microservices version google blogger API.
 - [jzero](https://github.com/jaronnie/jzero) - 基于 go-zero 框架定制的企业级后端代码框架脚手架, 同时支持使用 go-zero rpc, gateway, api 特性, 支持多 proto 多 service, 多人开发友好. 并能完全同步 go-zero 新特性. [文档](https://jzero.jaronnie.com)
-- [go-zero-box](https://github.com/prf16/go-zero-box) - 开箱即用的go-zero示例，内置 api、scheduler、queue、script 服务，引入 wire 库实现依赖注入功能、asynq 库实现队列、调度、脚本等功能、Makefile 脚本自动构建项目等好用示例👍，欢迎使用及提 issue。
+- [go-zero-box](https://github.com/prf16/go-zero-box) - 开箱即用的go-zero示例，内置 api、scheduler、queue、script 服务，引入 wire 库实现依赖注入功能、asynq 库实现队列、调度、脚本等功能、Makefile 脚本自动构建项目等好用示例👍，欢迎使用及提 issue.
 
 ## videos
 
