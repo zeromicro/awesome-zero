@@ -40,6 +40,7 @@
 - [go-microservices-blogger](https://github.com/linehk/go-microservices-blogger) - go-microservices-blogger is a microservices version google blogger API.
 - [jzero](https://github.com/jaronnie/jzero) - 基于 go-zero 框架定制的企业级后端代码框架脚手架, 同时支持使用 go-zero rpc, gateway, api 特性, 支持多 proto 多 service, 多人开发友好. 并能完全同步 go-zero 新特性. [文档](https://jzero.jaronnie.com)
 - [go-zero-box](https://github.com/prf16/go-zero-box) - 开箱即用的go-zero示例，内置 api、scheduler、queue、script 服务，引入 wire 库实现依赖注入功能、asynq 库实现队列、调度、脚本等功能、Makefile 脚本自动构建项目等好用示例👍，欢迎使用及提 issue.
+- [atlas-zero](https://github.com/cls-cloud/atlas-zero) -  基于 go-zero 框架构建的前后端分离权限管理系统，支持多租户，功能设计兼容 Java 生态的若依（RuoYi）框架，适用于企业级后台管理平台的快速开发。[文档](https://portal.go-atlas.cn)
 
 ## videos
 
