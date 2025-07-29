@@ -41,7 +41,7 @@
 - [jzero](https://github.com/jaronnie/jzero) - 基于 go-zero 框架定制的企业级后端代码框架脚手架, 同时支持使用 go-zero rpc, gateway, api 特性, 支持多 proto 多 service, 多人开发友好. 并能完全同步 go-zero 新特性. [文档](https://jzero.jaronnie.com)
 - [go-zero-box](https://github.com/prf16/go-zero-box) - 开箱即用的go-zero示例，内置 api、scheduler、queue、script 服务，引入 wire 库实现依赖注入功能、asynq 库实现队列、调度、脚本等功能、Makefile 脚本自动构建项目等好用示例👍，欢迎使用及提 issue.
 - [atlas-zero](https://github.com/cls-cloud/atlas-zero) -  基于 go-zero 框架构建的前后端分离权限管理系统，支持多租户，功能设计兼容 Java 生态的若依（RuoYi）框架，适用于企业级后台管理平台的快速开发。[文档](https://portal.go-atlas.cn)
-- [go-zero-admin]([https://github.com/cls-cloud/atlas-zero](https://github.com/yh-zero/go-zero-admin)) -  go-zero-admin: 基于go-zero和gorm开发的分布式微服务后端权限管理系统脚手架。十分合适新手入手go-zero、gorm、casbin、jwt等。自定义go-zero模板返回错误。
+- [go-zero-admin](https://github.com/yh-zero/go-zero-admin) -  go-zero-admin: 基于go-zero和gorm开发的分布式微服务后端权限管理系统脚手架。十分合适新手入手go-zero、gorm、casbin、jwt等。自定义go-zero模板返回错误。
 
 
 ## videos
